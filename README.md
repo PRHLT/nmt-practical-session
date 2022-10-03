@@ -1,7 +1,7 @@
 # Neural Machine Translation: a Practical Session
 This repo contains a [Google Colab](https://colab.research.google.com/) notebook which presents a practical session to introduce the training of neural machine translation systems to students. It was created for the lab sessions of the *machine translation* module of the [IARFID](https://www.upv.es/titulaciones/MUIARFID/) master from [Universitat Politècnica de València](https://www.upv.es/en).
 
-You can open the notebook by cliking on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/midobal/nmt-practical-session/blob/master/nmt-practical-session.ipynb).
+You can open the notebook by cliking on [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PRHLT/nmt-practical-session/blob/master/nmt-practical-session.ipynb).
 
 ## Overview
 The goal of this lab session is to build machine translation systems based on neural networks (neural machine translation; NMT) from a dataset of bilingual parallel sentences using a [custom version](https://github.com/PRHLT/OpenNMT-py/tree/lab_sessions) of the **OpenNMT-py** toolkit (Klein et al., 2017).
